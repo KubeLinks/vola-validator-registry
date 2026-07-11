@@ -1,1 +1,30 @@
 ## Validator and Storage Node Metadata for Vola Network Operators
+
+{
+  "schema_version": 1,
+  "owner_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
+  "profile": {
+    "operator_name": "Kube,
+    "website": "https://x.com/jpvegas21",
+    "country": "US",
+    "social": {
+      "x": "jpvegas21",
+      "telegram": "jpkube"
+    }
+  },
+  "validator": {
+    "account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
+    "name": "Kube1",
+    "logo": "logos/5FExampleOwnerWallet/validator.webp"
+  },
+  "storage_nodes": [
+    {
+      "id": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
+      "logo": "logos/5FExampleOwnerWallet/storage-1.webp"
+    }
+  ],
+  #"proof": {
+  # "message": "VolaScope Registry v1 | owner=... | nonce=...",
+  # "signature": "0x..."
+  #}
+}
