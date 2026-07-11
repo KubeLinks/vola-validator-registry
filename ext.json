@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "owner_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY"
+  "owner_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
   "validator": {
     "operator_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
     "name": "Kube1",
