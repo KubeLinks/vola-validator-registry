@@ -1,17 +1,16 @@
   {
-    "schema_version": 1,
-    "owner_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
+    "owner_account": "",
     "validator": {
-      "operator_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
-      "name": "Kube1",
-      "url_png_icon_64x64": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png",
-      "url_png_logo": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png"
+      "operator_account": "",
+      "name": "",
+      "url_png_icon_64x64": "",
+      "url_png_logo": ""
     },
     "storage_nodes": [
       {
-        "operator_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png",
-        "url_png_logo": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png"
+        "operator_account": "",
+        "url_png_icon_64x64": "",
+        "url_png_logo": ""
       }
     ]
   }
