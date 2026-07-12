@@ -9,12 +9,14 @@
           "telegram": ""
         }
       },
-      "validator_node": {
+      "validator_node": [ 
+        {
         "operator_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
         "name": "Kube1",
         "url_png_icon_64x64": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png",
         "url_png_logo": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png"
-      },
+        }
+      ],
       "storage_nodes": [
         {
           "operator_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
