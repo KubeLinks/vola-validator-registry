@@ -1,33 +1,64 @@
-  [
-    {
-      "owner": {
-        "owner_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
-        "owner_name": "",
-        "socials": {
-          "website": "",
-          "x": "https://x.com/jpvegas21",
-          "telegram": ""
-        }
-      },
-      "validator_node": [ 
-        {
+[
+  {
+    "owner": {
+      "owner_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
+      "owner_name": "",
+      "socials": {
+        "website": "",
+        "x": "https://x.com/jpvegas21",
+        "telegram": ""
+      }
+    },
+    "validator_node": [ 
+      {
         "operator_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
         "name": "Kube",
         "url_png_icon_64x64": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png",
         "url_png_logo": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png"
-        }
-      ],
-      "storage_nodes": [
-        {
-          "operator_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
-          "url_png_icon_64x64": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png",
-          "url_png_logo": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png"
-        }
-      ],
-      "verification": {
-        "nonce": "8fd93dc45d3d9240198756a1f2b0b726",
-        "remark_message": "vt-registry:v1:account=5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY:verification=8fd93dc45d3d9240198756a1f2b0b726",
-        "hash": "0x06f42bafd8c1c9672cbd64bf7a6928f65138f857510b0c5abdc92f909e78168e"
       }
+    ],
+    "storage_nodes": [
+      {
+        "operator_account": "5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png",
+        "url_png_logo": "https://raw.githubusercontent.com/KingStake21/KUBE/main/KUBEa.png"
+      }
+    ],
+    "verification": {
+      "nonce": "8fd93dc45d3d9240198756a1f2b0b726",
+      "remark_message": "vt-registry:v1:account=5HVjA7jc51qvoA81gFbEgGPCxuc9Bsnz45kicxByDYQoVEMY:verification=8fd93dc45d3d9240198756a1f2b0b726",
+      "hash": "0x06f42bafd8c1c9672cbd64bf7a6928f65138f857510b0c5abdc92f909e78168e"
     }
-  ]
+  },
+  {
+    "owner": {
+      "owner_account": "5CcucFGTBmx8Dj5QvssD4hG8mBnfZz3DRhWjm2DTj3VSMUdo",
+      "owner_name": "Cardania",
+      "socials": {
+        "website": "https://afreiel.cloud/",
+        "x": "https://x.com/Cardania777",
+        "telegram": ""
+      }
+    },
+    "validator_node": [
+      {
+        "operator_account": "5CcucFGTBmx8Dj5QvssD4hG8mBnfZz3DRhWjm2DTj3VSMUdo",
+        "name": "Afrëiel",
+        "url_png_icon_64x64": "https://afreiel.cloud/favicon-96x96.png",
+        "url_png_logo": "https://afreiel.cloud/faviconsource.png"
+      }
+    ],
+    "storage_nodes": [
+      {
+        "operator_account": "5CcucFGTBmx8Dj5QvssD4hG8mBnfZz3DRhWjm2DTj3VSMUdo",
+        "url_png_icon_64x64": "https://afreiel.cloud/favicon-96x96.png",
+        "url_png_logo": "https://afreiel.cloud/faviconsource.png"
+      }
+    ],
+    "verification": {
+      "nonce": "ffd0cbffab8cf97de20275061215abd9",
+      "remark_message": "vt-registry:v1:owner=5CcucFGTBmx8Dj5QvssD4hG8mBnfZz3DRhWjm2DTj3VSMUdo:verification=ffd0cbffab8cf97de20275061215abd9",
+      "hash": "0x458446f09554f5d67c87ce70aa86aedf817edc0160efe3200b2f11bd6691523f"
+    }
+  }
+]
